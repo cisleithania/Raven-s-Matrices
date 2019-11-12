@@ -2216,6 +2216,7 @@ private: System::ComponentModel::IContainer^  components;
 				L"ребуются добросовестность, глубокая обдуманность,\r\nискренность и точность в отве"
 				L"тах.";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
+			this->label1->Click += gcnew System::EventHandler(this, &MyForm::label1_Click);
 			// 
 			// tabPage7
 			// 
@@ -15539,6 +15540,8 @@ private: System::Void tabPage64_Click(System::Object^  sender, System::EventArgs
 private: System::Void label7_Click(System::Object^  sender, System::EventArgs^  e) {
 }
 private: System::Void label4_Click(System::Object^  sender, System::EventArgs^  e) {
+}
+private: System::Void label1_Click(System::Object^  sender, System::EventArgs^  e) {
 }
 };
 }

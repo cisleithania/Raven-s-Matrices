@@ -47,7 +47,7 @@ void array_2(int array_2[60], double array_start[60], double array_end[60], char
 	/*for (int i = 0; i < 60; i++) {
 		out << array_2[i] << endl;
 	}*/
-	out << "¹ çàäàíèÿ" << "     Ñåğèÿ A     " << "     Ñåğèÿ B     " << "     Ñåğèÿ C     " << "     Ñåğèÿ D     " << "     Ñåğèÿ E     " << endl
+	out << "â„– Ğ·Ğ°Ğ´Ğ°Ğ½Ğ¸Ñ" << "     Ğ¡ĞµÑ€Ğ¸Ñ A     " << "     Ğ¡ĞµÑ€Ğ¸Ñ B     " << "     Ğ¡ĞµÑ€Ğ¸Ñ C     " << "     Ğ¡ĞµÑ€Ğ¸Ñ D     " << "     Ğ¡ĞµÑ€Ğ¸Ñ E     " << endl
 		<< "    1" << "            " << array_2[0] << "                " << array_2[12] << "                " << array_2[24] << "                " << array_2[36] << "                " << array_2[48] << endl
 		<< "    2" << "            " << array_2[1] << "                " << array_2[13] << "                " << array_2[25] << "                " << array_2[37] << "                " << array_2[49] << endl
 		<< "    3" << "            " << array_2[2] << "                " << array_2[14] << "                " << array_2[26] << "                " << array_2[38] << "                " << array_2[50] << endl
@@ -60,8 +60,8 @@ void array_2(int array_2[60], double array_start[60], double array_end[60], char
 		<< "    10" << "           " << array_2[9] << "                " << array_2[21] << "                " << array_2[33] << "                " << array_2[45] << "                " << array_2[57] << endl
 		<< "    11" << "           " << array_2[10] << "                " << array_2[22] << "                " << array_2[34] << "                " << array_2[46] << "                " << array_2[58] << endl
 		<< "    12" << "           " << array_2[11] << "                " << array_2[23] << "                " << array_2[35] << "                " << array_2[47] << "                " << array_2[59] << endl
-		<< "Ñóììà:           " << sum_a << "                " << sum_b << "                " << sum_c << "                " << sum_d << "                " << sum_e << endl
-		<< "Îáùàÿ ñóììà:     " << sum << endl
-		<< "Ñğ.âğåìÿ:" << "           " << average_a << "                " << average_b << "                " << average_c << "                " << average_d << "                " << average_e << endl
-		<< "Îáùåå ñğ.âğåìÿ: " << average << endl;
+		<< "Ğ¡ÑƒĞ¼Ğ¼Ğ°:           " << sum_a << "                " << sum_b << "                " << sum_c << "                " << sum_d << "                " << sum_e << endl
+		<< "ĞĞ±Ñ‰Ğ°Ñ ÑÑƒĞ¼Ğ¼Ğ°:     " << sum << endl
+		<< "Ğ¡Ñ€.Ğ²Ñ€ĞµĞ¼Ñ:" << "           " << average_a << "                " << average_b << "                " << average_c << "                " << average_d << "                " << average_e << endl
+		<< "ĞĞ±Ñ‰ĞµĞµ ÑÑ€.Ğ²Ñ€ĞµĞ¼Ñ: " << average << endl;
 }
