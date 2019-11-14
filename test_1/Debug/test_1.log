@@ -1,4 +1,4 @@
-﻿  file.cpp
+﻿  array_2.cpp
   Arr.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
   test_1.vcxproj -> D:\C++\test\test_1\Debug\test_1.exe
   test_1.vcxproj -> D:\C++\test\test_1\Debug\test_1.pdb (Partial PDB)
